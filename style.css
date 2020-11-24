@@ -131,7 +131,7 @@ nav {
 .showcase {
   height: calc(100vh - 100px);
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../images/Communication.png);
+    url(./Communication.png);
   background-size: cover;
   background-repeat: no-repeat;
   border-bottom: 10px solid rgb(142, 142, 212);
@@ -176,7 +176,7 @@ nav {
 .showcase-page2 {
   height: calc(100vh - 100px);
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../images/confusion.png);
+    url(./confusion.png);
   background-size: cover;
   background-repeat: no-repeat;
   border-bottom: 10px solid rgb(142, 142, 212);
